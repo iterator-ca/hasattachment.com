@@ -4,8 +4,5 @@
   "description": "Placeholder for hasattachment.com",
   "scripts": {
     "build": "mkdir -p dist && cp index.html dist/index.html"
-  },
-  "keywords": [],
-  "author": "Iterator, Inc",
-  "license": "ISC"
+  }
 }
