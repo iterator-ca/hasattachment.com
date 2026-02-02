@@ -1,0 +1,11 @@
+{
+  "name": "hasattachment.com",
+  "version": "1.0.0",
+  "description": "Placeholder for hasattachment.com",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/"
+  },
+  "keywords": [],
+  "author": "Iterator, Inc",
+  "license": "ISC"
+}
